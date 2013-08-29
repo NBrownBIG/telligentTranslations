@@ -15,7 +15,7 @@ Your appeal display your content on $core_v2_configuration.SiteName
 	<p>
 Dear $author.DisplayName,<br />
 Thank you for taking the time to respond to the community decision to remove your post.
-After a careful review, we are unable to restore the content. Please help maintain a safe, enjoyable experience for everyone by ensuring that your posts are appropriate and consistent with the community culture.
+After a careful review, we are unable to restore the content. Please make sure your contributions are appropriate.
 	</p>   
 </div>
 			]]>
@@ -31,7 +31,7 @@ $post.HtmlName("email"): Abusive content
 
 Dear $author.DisplayName,
 Thank you for taking the time to respond to the community decision to remove your post.
-After a careful review, we are unable to restore the content. Please help maintain a safe, enjoyable experience for everyone by ensuring that your posts are appropriate and consistent with the community culture.
+After a careful review, we are unable to restore the content. Please make sure your contributions are appropriate.
 			]]>
     </textBody>
   </emailTemplate>
